@@ -22,7 +22,7 @@ The team from Relaxr is back...again! They want their page to be more interactiv
 
 ### Technical Requirements 
 
-- Prevent a form submission with the ```event.preventDefault()``` function
+- Prevent link from being followed with the ```event.preventDefault()``` function	
 - Use the ```$.ready()``` handler to delay your code from executing until all DOM assets have been loaded
 - Select the appropriate DOM elements with CSS selectors upon a user's click using the ```$.click()``` handler
 - If a user clicks "Read More" on the primary column:
